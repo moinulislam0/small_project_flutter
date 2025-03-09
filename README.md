@@ -1,16 +1,10 @@
-# tab_bar
+Here I tired to make a small project using TabBar,Drawer,BottomNavigationBar,FloatingActionButton,SnackBar,AlertDialog .
 
-A new Flutter project.
+![image](https://github.com/user-attachments/assets/7db379cf-1828-4c5a-ab4d-c7cc5ce0bc87)
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/8ecb1c64-759a-4f2e-a629-aaa49dd061a1)
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/3b0892c5-8620-4237-81be-110347e2dd82)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/3704f983-a279-471f-994d-981b9187bcc9)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
